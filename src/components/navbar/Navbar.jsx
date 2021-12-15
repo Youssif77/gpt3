@@ -30,7 +30,7 @@ function Navbar() {
     <div className={classes["gpt3__navbar"]}>
       <div className={classes["gpt3__navbar-links"]}>
         <div className={classes["gpt3__navbar-links_logo"]}>
-          <img src={logo} alt={logo} />
+          <img src={logo} alt="logo" />
         </div>
         <div className={classes["gpt3__navbar-links_container"]}>
           <Menu />
